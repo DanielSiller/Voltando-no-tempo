@@ -1,15 +1,78 @@
 h1 {
   margin: 0;
+  text-align: center;
+}
+h5 {
+  margin: 0;
+  text-align: center;
+}
+.liMenuEsquerdo {
+  border-bottom: 1px dashed #fff ;
+  padding-left: 20px;
+  color: #fff;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.FirstList{
+  color: #fff;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px dashed #fff ;
+  border-top: 1px dashed #fff ;
+  padding-left: 2px;
+}
+.secondList {
+  border-bottom: 1px dashed #fff ;
+  padding-top: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.menuEsquerdo {
+  background-color: #CD3326;
 }
 
 label {
   margin: 0;
 }
-.menu {
-  margin: 0;
-  background: red;
+.logoParte1 {
+  background-color: CD3326;
   color: #fff;
 }
-.direita {
+.logoParte2 {
+  background-color: #000;
+  color: #fff;
+}
+.logoParte3 {
+background-color: #fff;
+}
+.listMenuEsquerdo {
+  text-align: left;
+  list-style-type: none;
+  padding-left: 0px;
+}
+#procurar {
+  margin-top: 5px;
+  margin-left: 20px;
+  width: 100px;
+  
+}
+.labelInput {
+  font-size: 14px;
+  margin-left: 20px;
+  color: #fff;
+}
+
+.menuDireito {
 
 }
+.novoConteudo{
+  margin: 0px;
+  text-align:center ;
+  color: #fff;
+  background-color:#CD3326;
+}
+.bolsa{
+  color: #fff;
+  background-color: #000;
+}
+
