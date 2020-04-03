@@ -75,4 +75,20 @@ background-color: #fff;
   color: #fff;
   background-color: #000;
 }
+.titulosDasBolsas {
+  background-color: #CCC;
+  text-align: left;
+}
+.horasDaBolsa {
+  padding-left: 50px;
+}
+.porcentagemPositiva {
+  padding-left: 35px;
+  color:#1FA579 ;
+}
+.porcentagemNegativa {
+  padding-left: 38px;
+  color: red
 
+  ;
+}
